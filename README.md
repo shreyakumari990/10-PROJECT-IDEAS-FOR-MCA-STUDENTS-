@@ -68,3 +68,8 @@ Tools: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
 Description:
 Users can register, browse restaurants and food items, add products to their cart, and place orders. Restaurants or admins can manage menus and incoming orders. The system will update order status such as Pending, Preparing, Out for Delivery, and Delivered, allowing users to track their orders.
+SMART CAMPUS MANAGEMENT SYSTEM
+
+Tech Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+Isme Student Management, Attendance, Faculty Management, Notices, Assignments, Fees aur Dashboard jaise modules bana sakte ho. Resume aur final-year project dono ke liye solid lagega. 🔥
