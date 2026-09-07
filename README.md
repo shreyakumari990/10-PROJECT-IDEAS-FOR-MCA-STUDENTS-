@@ -72,4 +72,4 @@ SMART CAMPUS MANAGEMENT SYSTEM
 
 Tech Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
-Isme Student Management, Attendance, Faculty Management, Notices, Assignments, Fees aur Dashboard jaise modules bana sakte ho. Resume aur final-year project dono ke liye solid lagega. 🔥
+🔥
