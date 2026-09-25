@@ -72,4 +72,24 @@ SMART CAMPUS MANAGEMENT SYSTEM
 
 Tech Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
-🔥
+🔥Yaar, jo description tumne bheja hai food ordering system ka hai, lekin heading “Smart Campus Management System” hai. Dono match nahi kar rahe.
+
+Agar tumhara project Smart Campus Management System hai, to description ko aise likh sakte ho:
+
+SMART CAMPUS MANAGEMENT SYSTEM
+
+Tech Stack: MERN Stack — MongoDB, Express.js, React.js, Node.js
+
+Description:
+The Smart Campus Management System is a web-based application designed to manage and simplify various campus activities through a single platform. Students can register, log in, view campus-related information, access notices and events, and manage their academic or campus activities. Administrators can manage student records, notices, events, departments, and other campus resources. The system provides role-based access for students, faculty, and administrators, helping improve communication, organization, and efficiency within the campus.
+
+Agar tumhara actual project Food Ordering System hai:
+
+FOOD ORDERING AND DELIVERY SYSTEM
+
+Tech Stack: MERN Stack — MongoDB, Express.js, React.js, Node.js
+
+Description:
+The Food Ordering and Delivery System is a web-based application that allows users to register, browse restaurants and food items, add products to their cart, and place orders. Restaurants or administrators can manage food menus and incoming orders. The system provides real-time order status updates such as Pending, Preparing, Out for Delivery, and Delivered, allowing users to track their orders conveniently.
+
+Important: Tumhare pasted text mein “Smart Campus Management System” aur restaurant/food-ordering description mix ho gaya hai. Agar ye resume/project viva ke liye hai, to heading aur description same project ke hone chahiye.
